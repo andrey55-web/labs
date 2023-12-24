@@ -1,0 +1,4 @@
+﻿  cpp_labs.cpp
+C:\Users\mayonezss\source\repos\cpp_labs\cpp_labs.cpp(13,18): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+C:\Users\mayonezss\source\repos\cpp_labs\cpp_labs.cpp(31,18): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+  cpp_labs.vcxproj -> C:\Users\mayonezss\source\repos\cpp_labs\x64\Debug\cpp_labs.exe
